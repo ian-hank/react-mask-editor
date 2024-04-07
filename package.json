@@ -6,7 +6,8 @@
   "author": "doches@gmail.com",
   "types": "./dist/src/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "repository": {
     "type": "git",
